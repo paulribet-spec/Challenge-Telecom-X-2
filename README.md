@@ -25,3 +25,9 @@ Proyecto de machine learning para predecir la cancelación de clientes en la emp
 ## Archivos
 - `proyecto_churn.ipynb` — Notebook principal con el análisis completo
 - `datos_tratados.csv` — Dataset utilizado
+
+---
+
+##  Autor
+
+Paul Ribet Salort
